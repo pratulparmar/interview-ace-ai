@@ -1,0 +1,22 @@
+# Don't upload thses to github
+
+.env
+venv/
+__pycache__/
+*.pyc
+node.modules/
+.next/
+data/chroma_db/
+*.db
+Thumbs.db
+logs/
+
+# Interview data (user sessions - privacy)
+backend/data/interviews/
+
+# Vector database (regeneratable, large files)
+backend/data/vector_store/*.index
+backend/data/vector_store/*.pkl
+
+# But DO include the example env
+!.env.example

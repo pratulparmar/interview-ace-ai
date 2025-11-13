@@ -441,9 +441,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@pratulparmar](https://github.com/pratulparmar)
+- LinkedIn: [Pratul Parmar](https://www.linkedin.com/in/pratul-parmar-a5002417a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOW%2B1F9BwTm6kxUwnRt92yg%3D%3D)
+- Email: pratulparmar8@gmail.com
 
 ---
 
